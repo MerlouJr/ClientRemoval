@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">AlertReceive</string>
+    <string name="title_activity_actions_plans">ActionsPlans</string>
+    <string name="large_text">
+        FIRE ACTION PLAN \n\n
+When fire is discovered:
+        •Activate the nearest fire alarm (if installed)\n
+        •Notify the local Fire Department by calling.\n
+        •If the fire alarm is not available, notify the site personnel about the fire emergency by the following means (check applicable):\n
+        Voice \tCommunication  \tPhone Paging \t Radio\n\n
+
+Other (specify)\n
+Fight the fire ONLY if:\n\n
+•The Fire Department has been notified.\n
+•The fire is small and is not spreading to other areas.\n
+•Escaping the area is possible by backing up to the nearest exit.\n
+•The fire extinguisher is in working condition and personnel are trained touse it.\n
+Upon being notified about the fireemergency, occupants must:\n
+•Leave the building using the designated escape routes.\n
+•Assemble in the designated area (specify location):\n
+•Remain outside until the competentbauthority (Designated Official or designee) announces that it is safe to reenter.\n
+Designated Official, Emergency Coordinator orsupervisors must (underline one):\n
+•Disconnect utilities and equipment unless doing so jeopardizes his/hersafety.\n
+•Coordinate an orderly evacuation of personnel.\n
+•Perform an accurate head count ofpersonnel reported to the designated area.\n
+•Determine a rescue method to locate missing personnel.\n
+•Provide the Fire Department personnel with the necessary information about the facility.\n
+•Perform assessment and coordinate weather forecast office emergency closing procedures\n\n
+Area/Floor Monitors must:\n\n
+•Ensure that all employees have evacuated the area/floor.\n\n
+•Report any problems to the Emergency Coordinator at the assembly area. Assistants to Physically Challenged should:
+•Assist all physically challenged employees in emergency evacuation.\n
+    </string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_earth_quake">ActionsPlans</string>
+    <string name="large_text2">
+     EARTHQUAKE ACTION PLANS\n\n
+        
+    Remain Calm. By staying calm yourself, you will be better able to assess damage and assist others.\n
+    Take Cover.\n
+        If you are inside a building:\n
+            \t*stay there;\n
+           \t *move under a sturdy table, desk, or bed and stay there;\n
+           \t *brace yourself in an inside corner, or doorway;\n
+           \t *stay away from windows;\n
+           \t *protect your head and face with any available material.\n
+        If you are outdoors:\n
+           \t *stay there;\n
+           \t *move away from tall buildings, structures, and trees;\n
+           \t *stay away from fallen power lines, as they may appear to be “dead” but may suddenly re-energize as automatic restoration of power is attempted;\n
+           \t *proceed if possible to an open area.\n
+           \t *Do not lift or raise any power lines\n
+        If you are in a vehicle:\n
+           \t *pull over and stop;\n
+           \t *remain clear of overpasses, tall buildings, structures, and trees;\n
+           \t *make certain your seat belt is fastened;\n
+           \t *stay in your vehicle, as it will provide some protection from falling and flying debris.\n
+
+After the Earthquake:\n
+
+    \t*Do not rush outdoors. Many people are injured in this way when struck by falling debris.\n
+   \t *Do not use the elevator, and warn others not to use it, because a power outage may occur after the quake has stopped in your immediate area.\n
+   \t*Check for injuries or people who are trapped.\n
+   \t *Follow emergency medical procedures.\n
+   \t *Follow the Emergency Action Procedures for building evacuation.\n
+   \t *Assist individuals in leaving the building if it is safe to leave.\n
+
+        </string>
+    <string name="title_activity_tsunami">Tsunami</string>
+
+
+</resources>
